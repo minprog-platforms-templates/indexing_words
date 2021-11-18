@@ -1,4 +1,4 @@
-# word_index.py: Find all occurance of a word in a text.
+# word_index.py: Find all occurence of a word in a text.
 # Usage: python word_index.py [text-file]
 # Displays all line numbers where the word occurs.
 
@@ -30,7 +30,7 @@ def show_search_results(word, line_numbers):
 
 def convert_word(s):
     """
-    Strips a word from all puncuation, whitespace, and digits. Then converts
+    Strips a word from all punctuation, whitespace, and digits. Then converts
     the word into all lower case.
     """
     return s.strip(string.punctuation + \
