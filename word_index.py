@@ -1,4 +1,4 @@
-# word_index.py: Find all occurence of a word in a text.
+# word_index.py: Find all occurences of a word in a text.
 # Usage: python word_index.py [text-file]
 # Displays all line numbers where the word occurs.
 
